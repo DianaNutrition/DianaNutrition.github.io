@@ -1,0 +1,58 @@
+.App {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about {
+    margin-bottom: 40px;
+}
+
+.about-content {
+    line-height: 1.6;
+}
+
+.blog-gallery {
+    margin-top: 40px;
+}
+
+.posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+}
+
+.post-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.2s;
+}
+
+.post-card:hover {
+    transform: translateY(-5px);
+}
+
+.post-card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.post-card h3 {
+    padding: 10px;
+    margin: 0;
+}
+
+.post-card p {
+    padding: 0 10px;
+    color: #666;
+}
+
+.post-card .date {
+    display: block;
+    padding: 10px;
+    color: #888;
+    font-size: 0.9em;
+}

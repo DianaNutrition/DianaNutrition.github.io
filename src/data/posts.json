@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Benefits of a Plant-Based Diet",
+    "excerpt": "Discover how incorporating more plants into your diet can improve your health...",
+    "thumbnail": "thumbnail1.png",
+    "content": "post1.md",
+    "date": "2024-01-15"
+  },
+  {
+    "id": 2,
+    "title": "Understanding Macronutrients",
+    "excerpt": "A comprehensive guide to proteins, carbohydrates, and fats...",
+    "thumbnail": "thumbnail2.png",
+    "content": "post2.md",
+    "date": "2024-01-22"
+  },
+  {
+    "id": 3,
+    "title": "Understanding Macronutrients",
+    "excerpt": "A comprehensive guide to proteins, carbohydrates, and fats...",
+    "thumbnail": "thumbnail2.png",
+    "content": "post2.md",
+    "date": "2024-01-22"
+  },
+  {
+    "id": 4,
+    "title": "Understanding Macronutrients",
+    "excerpt": "A comprehensive guide to proteins, carbohydrates, and fats...",
+    "thumbnail": "thumbnail2.png",
+    "content": "post2.md",
+    "date": "2024-01-22"
+  },
+  {
+    "id": 5,
+    "title": "Understanding Macronutrients",
+    "excerpt": "A comprehensive guide to proteins, carbohydrates, and fats...",
+    "thumbnail": "thumbnail2.png",
+    "content": "post2.md",
+    "date": "2024-01-22"
+  }
+]
