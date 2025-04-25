@@ -66,12 +66,6 @@ function BlogPost() {
       </Link>
 
       <div className="bg-white rounded-lg shadow-lg overflow-hidden">
-        <img
-          src={require(`../data/images/${post.thumbnail}`)}
-          alt={post.title}
-          className="w-full h-64 object-cover"
-        />
-
         <div className="p-8">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
             {post.title}

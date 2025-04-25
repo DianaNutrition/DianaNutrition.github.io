@@ -1,42 +1,18 @@
 [
   {
     "id": 1,
-    "title": "The Benefits of a Plant-Based Diet",
-    "excerpt": "Discover how incorporating more plants into your diet can improve your health...",
+    "title": "Why Is It Important to Maintain a Healthy Lifestyle?",
+    "excerpt": "What does a healthy lifestyle mean to you? What steps are you taking to improve your health? Is it something you prioritize every day, or is it a goal you’ve postponed for the future—perhaps once you’re older?",
     "thumbnail": "thumbnail1.png",
     "content": "post1.md",
-    "date": "2024-01-15"
+    "date": "2024-12-15"
   },
   {
     "id": 2,
-    "title": "Understanding Macronutrients",
-    "excerpt": "A comprehensive guide to proteins, carbohydrates, and fats...",
+    "title": "The Best Meal Plan Is the One That’s Personalized for You",
+    "excerpt": "The best diet you can follow is the one that suits you. Every person is different, and that’s why nutrition should never be one-size-fits-all—it must be personalized",
     "thumbnail": "thumbnail2.png",
     "content": "post2.md",
-    "date": "2024-01-22"
-  },
-  {
-    "id": 3,
-    "title": "Understanding Macronutrients",
-    "excerpt": "A comprehensive guide to proteins, carbohydrates, and fats...",
-    "thumbnail": "thumbnail2.png",
-    "content": "post2.md",
-    "date": "2024-01-22"
-  },
-  {
-    "id": 4,
-    "title": "Understanding Macronutrients",
-    "excerpt": "A comprehensive guide to proteins, carbohydrates, and fats...",
-    "thumbnail": "thumbnail2.png",
-    "content": "post2.md",
-    "date": "2024-01-22"
-  },
-  {
-    "id": 5,
-    "title": "Understanding Macronutrients",
-    "excerpt": "A comprehensive guide to proteins, carbohydrates, and fats...",
-    "thumbnail": "thumbnail2.png",
-    "content": "post2.md",
-    "date": "2024-01-22"
+    "date": "2025-01-22"
   }
 ]
