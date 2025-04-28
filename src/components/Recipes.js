@@ -21,7 +21,6 @@ const recipes = [
       "Remove from the pan and top with the following: 2 teaspoons peanut butter and 1/2 banana (sliced)",
     ],
     conclusion: "Enjoy your healthy, protein-packed pancake! 😋",
-    image: "/images/recipes1.jpg",
     prepTime: "5 minutes",
     difficulty: "Easy",
     nutritionalInfo: "250 kcal, 35g carbs, 10g fat, 8g protein",
@@ -51,7 +50,7 @@ const recipes = [
       "Let cool and enjoy! 💕",
     ],
     conclusion: "A healthy alternative to satisfy your chocolate cravings!",
-    image: "/images/recipes2.jpg",
+    image: "/images/recipes2.png",
     prepTime: "20 minutes",
     difficulty: "Medium",
   },
@@ -73,7 +72,7 @@ const recipes = [
     ],
     conclusion:
       "Enjoy your homemade peanut butter on toast, smoothies, or as a healthy snack! 🥜✨",
-    image: "/images/recipes3.jpg",
+    image: "/images/recipes3.png",
     prepTime: "10 minutes",
     difficulty: "Easy",
     benefits: [
@@ -100,7 +99,7 @@ const recipes = [
     ],
     conclusion:
       "Enjoy the health benefits and start your day feeling great! Try it and let me know how you feel! ✨🍋",
-    image: "/images/recipes4.jpg",
+    image: "/images/recipes4.png",
     prepTime: "3 minutes",
     difficulty: "Easy",
   },
@@ -124,7 +123,7 @@ const recipes = [
       "Heat until the cheese melts and enjoy!",
     ],
     conclusion: "Hope you love this unique and flavorful recipe! ☺ 🌮",
-    image: "/images/recipes5.jpg",
+    image: "/images/recipes5.png",
     prepTime: "15 minutes",
     difficulty: "Medium",
     servings: "6 Tacos",
@@ -147,7 +146,7 @@ const recipes = [
     ],
     conclusion:
       "Enjoy this healthy, tasty, and versatile chocolate pudding! 🍫✨",
-    image: "/images/recipes6.jpg",
+    image: "/images/recipes6.png",
     prepTime: "5 minutes",
     difficulty: "Easy",
   },
@@ -169,7 +168,7 @@ const recipes = [
     ],
     conclusion:
       "Perfect for a sweet, refreshing snack or dessert on a warm day! 🌞",
-    image: "/images/recipes7.jpg",
+    image: "/images/recipes7.png",
     prepTime: "5 minutes",
     difficulty: "Easy",
   },
@@ -196,7 +195,7 @@ const recipes = [
     ],
     conclusion:
       "This banana bread is the perfect balance of sweet, healthy, and satisfying! 🚫 Just a reminder, even though it's nutritious, it's still important to enjoy it in moderation. Any excess can affect our health.",
-    image: "/images/recipes8.jpg",
+    image: "/images/recipes8.png",
     prepTime: "35 minutes",
     difficulty: "Easy",
   },
@@ -222,7 +221,7 @@ const recipes = [
     ],
     conclusion:
       "Enjoy your healthy, plant-based burger! It's perfect for a nutritious meal without sacrificing flavor! 😊",
-    image: "/images/recipes9.jpg",
+    image: "/images/recipes9.png",
     prepTime: "15 minutes",
     difficulty: "Medium",
     toppings: [
@@ -258,7 +257,6 @@ const recipes = [
     ],
     conclusion:
       "Enjoy your delicious and nutritious nachos! Perfect for satisfying your cravings in a healthy way! 😊",
-    image: "/images/recipes10.jpg",
     prepTime: "10 minutes",
     difficulty: "Easy",
   },
@@ -279,7 +277,7 @@ const recipes = [
       "Then, place the mixture into popsicle molds and freeze for about 3-4 hours.",
     ],
     conclusion: "Enjoy and treat yourself to a refreshing, healthy dessert! 😉",
-    image: "/images/recipes11.jpg",
+    image: "/images/recipes11.png",
     prepTime: "10 minutes + 3-4 hours freezing",
     difficulty: "Easy",
   },
@@ -304,7 +302,7 @@ const recipes = [
     ],
     conclusion:
       "A simple, healthy, and delicious way to enjoy your veggies! 🍽️",
-    image: "/images/recipes12.jpg",
+    image: "/images/recipes12.png",
     prepTime: "15 minutes",
     difficulty: "Easy",
   },
@@ -324,7 +322,7 @@ const recipes = [
     ],
     conclusion:
       "Enjoy your healthier Nutella alternative! It's the perfect treat to spread on toast or use as a topping! 🍫",
-    image: "/images/recipes13.jpg",
+    image: "/images/recipes13.png",
     prepTime: "10 minutes",
     difficulty: "Easy",
     benefits: [
@@ -366,7 +364,7 @@ const recipes = [
     ],
     conclusion:
       "Enjoy your healthy pizza! 🍕😁 Remember, eating healthy doesn't have to be boring! 😉",
-    image: "/images/recipes14.jpg",
+    image: "/images/recipes14.png",
     prepTime: "40 minutes",
     difficulty: "Medium",
   },
@@ -395,7 +393,6 @@ const recipes = [
       "Top with peanut butter and strawberries.",
     ],
     conclusion: "ENJOY! 😁",
-    image: "/images/recipes15.jpg",
     prepTime: "15 minutes",
     difficulty: "Easy",
     nutritionalInfo:
@@ -425,7 +422,6 @@ const recipes = [
       "Bake for approximately 30 minutes.",
     ],
     conclusion: "Enjoy!",
-    image: "/images/recipes16.jpg",
     prepTime: "40 minutes",
     difficulty: "Medium",
     nutritionalInfo:
@@ -455,7 +451,6 @@ const recipes = [
       "Bake for about 30-35 minutes.",
     ],
     conclusion: "Enjoy! 😁👌",
-    image: "/images/recipes17.jpg",
     prepTime: "45 minutes",
     difficulty: "Medium",
     benefits: [
@@ -485,7 +480,6 @@ const recipes = [
       "Place in the freezer for 10 minutes.",
     ],
     conclusion: "Enjoy your delicious sweet and salty snack! 😋",
-    image: "/images/recipes18.jpg",
     prepTime: "15 minutes",
     difficulty: "Easy",
   },
@@ -508,7 +502,6 @@ const recipes = [
       "Microwave for 2:30 minutes.",
     ],
     conclusion: "Enjoy your tasty mugcake! 🍫😋",
-    image: "/images/recipes19.jpg",
     prepTime: "5 minutes",
     difficulty: "Easy",
     topping: "1 tablespoon of natural peanuts",
@@ -536,7 +529,6 @@ const recipes = [
       "Bake at 350°F (175°C) for 25-30 minutes.",
     ],
     conclusion: "ENJOY! 😁 Perfect for a healthy and tasty treat!",
-    image: "/images/recipes20.jpg",
     prepTime: "40 minutes",
     difficulty: "Easy",
     optionalTopping:
@@ -548,11 +540,13 @@ function RecipeCard({ recipe }) {
     <div className="bg-white rounded-lg shadow-lg overflow-hidden mb-10">
       <div className="md:flex">
         <div className="md:flex-shrink-0">
-          <img
-            className="h-64 w-full object-cover md:w-64"
-            src={recipe.image}
-            alt={recipe.title}
-          />
+          {recipe.image && (
+            <img
+              className="h-64 w-full object-cover md:w-64"
+              src={recipe.image}
+              alt=""
+            />
+          )}
         </div>
         <div className="p-6 flex-grow">
           <div className="flex justify-between items-start">
